@@ -15,11 +15,7 @@ Video assignment (2 minutes 39 seconds):
 knitr::include_url("https://youtu.be/w9mGcvU65r0")
 ```
 
-```
-## PhantomJS not found. You can install it with webshot::install_phantomjs(). If it is installed, please make sure the phantomjs executable can be found via the PATH variable.
-```
-
-<iframe src="https://youtu.be/w9mGcvU65r0" width="100%" height="400px"></iframe>
+<iframe src="https://youtu.be/w9mGcvU65r0" width="672" height="400px"></iframe>
 
 After viewing the video, ask yourself: 
 - What is the advantage of a cloud-centric approach to data sharing?

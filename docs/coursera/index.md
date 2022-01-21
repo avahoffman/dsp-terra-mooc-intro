@@ -1,5 +1,5 @@
 ---
-title: "Course Name "
+title: "Intro to Terra"
 date: "January, 2022"
 site: bookdown::bookdown_site
 documentclass: book
