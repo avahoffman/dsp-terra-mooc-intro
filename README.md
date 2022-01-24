@@ -1,5 +1,6 @@
 # Intro to Terra
 
+*THIS REPO IS IN PROGRESS* 
 [![Render Bookdown and Coursera](https://github.com/jhudsl/OTTR_Template/actions/workflows/render-bookdown.yml/badge.svg)](https://github.com/jhudsl/OTTR_Template/actions/workflows/render-bookdown.yml)
 
 This course was created from [this GitHub template](https://github.com/jhudsl/OTTR_Template).
