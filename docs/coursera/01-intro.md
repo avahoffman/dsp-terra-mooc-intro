@@ -1,6 +1,5 @@
 
 
-
 # Introduction
 
 The health and life sciences data revolution has arrived. Accurate and inexpensive genome sequencing is a reality, high-resolution imaging is becoming routine, and clinical data is increasingly available in machine-readable formats. These breakthroughs bring us to the threshold of a new era in biomedicine, one where the data sciences hold the potential to propel our understanding and treatment of human disease.
