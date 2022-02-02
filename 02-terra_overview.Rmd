@@ -12,10 +12,6 @@ Video assignment (2 minutes 39 seconds):
 
 [Terra in a nutshell](https://youtu.be/w9mGcvU65r0)
 
-```{r}
-knitr::include_url("https://youtu.be/w9mGcvU65r0")
-```
-
 After viewing the video, ask yourself: 
 - What is the advantage of a cloud-centric approach to data sharing?
 - How does Terra help facilitate data analysis for biomedical researchers?
